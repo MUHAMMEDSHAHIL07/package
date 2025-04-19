@@ -192,25 +192,7 @@
       "email": "muhammedshahil7012@gmail.com",
       "password": "123456",
       "cpassword": "123456",
-      "cart": [
-        {
-          "id": "16",
-          "name": "Black Jeep",
-          "price": 3500,
-          "image": "https://i.pinimg.com/736x/ba/f1/ce/baf1cecb7e045abea89f16bf649cc1cd.jpg",
-          "category": "Toys",
-          "gender": "Boys"
-        },
-        {
-          "id": "6",
-          "name": "Plain White Shirt",
-          "price": 950,
-          "image": "https://i.pinimg.com/736x/33/85/e9/3385e95d0e5f0748a490dc2db4824e58.jpg",
-          "category": "Clothes",
-          "gender": "Boys",
-          "quantity": 18
-        }
-      ],
+      "cart": [],
       "isAdmin": true,
       "isActive": true,
       "orders": []
