@@ -215,27 +215,6 @@
       "isActive": true,
       "orders": []
     },
-    {
-      "id": "876b",
-      "name": "AJSAL",
-      "email": "ajsal123@gmail.com",
-      "password": "123456",
-      "cpassword": "123456",
-      "cart": [],
-      "isActive": true,
-      "orders": [
-        {
-          "userId": "876b",
-          "item": {
-            "id": "3",
-            "name": "Wooden Train Toy",
-            "price": 450,
-            "image": "https://i.pinimg.com/736x/9d/92/01/9d92014bef9f425fce0a36cb5abf7791.jpg",
-            "category": "Toys",
-            "gender": "Girls"
-          },
-          "price": 450
-        },
         {
           "userId": "876b",
           "item": {
