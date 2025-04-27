@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "2",
-      "name": "Electric Ride ",
+      "name": "Electric Ride",
       "price": "2500",
       "image": "https://i.pinimg.com/736x/cf/a4/2f/cfa42f0f50727c707f21588f952716d7.jpg",
       "category": "Toys",
@@ -154,7 +154,7 @@
     },
     {
       "id": "22",
-      "name": "Aaron Short Sleeved Shirt ",
+      "name": "Aaron Short Sleeved Shirt",
       "price": "750",
       "image": "https://i.pinimg.com/736x/8e/9e/d2/8e9ed2198afa596b106b3f9ab969bc1f.jpg",
       "category": "Clothes",
@@ -170,7 +170,7 @@
     },
     {
       "id": "73fb",
-      "name": "Globber Learning Bike ",
+      "name": "Globber Learning Bike",
       "price": "1500",
       "image": "https://i.pinimg.com/736x/0b/5b/38/0b5b389dea065f1df98eaaa488c579d0.jpg",
       "category": "Toys",
@@ -178,7 +178,7 @@
     },
     {
       "id": "6cfc",
-      "name": "NEW PRODUCT ",
+      "name": "NEW PRODUCT",
       "price": "500",
       "image": "https://i.pinimg.com/736x/01/c2/2d/01c22d9e4ddf791b4f5bda722a3d811f.jpg",
       "category": "Clothes",
@@ -197,20 +197,6 @@
       "isActive": true,
       "orders": []
     },
-        {
-          "userId": "876b",
-          "item": {
-            "id": "1",
-            "name": "New York Moonstar Shirt",
-            "price": 500,
-            "image": "https://i.pinimg.com/736x/f3/19/6d/f3196d125099a5c117ac2119783a8b5f.jpg",
-            "category": "Clothes",
-            "gender": "Boys"
-          },
-          "price": 500
-        }
-      ]
-    },
     {
       "id": "3458",
       "name": "customer1",
@@ -221,10 +207,10 @@
       "isActive": true,
       "orders": []
     },
- {
-      "id": "3458",
+    {
+      "id": "3459",
       "name": "customer3",
-      "email": "customer1@gmail.com",
+      "email": "customer3@gmail.com",
       "password": "123456",
       "cpassword": "123456",
       "cart": [],
